@@ -15,9 +15,19 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# Project
+What games have you played?
+I want to know that.
+Tell me the name of game! 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Game
+1 Super Smash Bros. Ultimate
+2
+3
+4
+5
+6
+7
+8
+9
+10
